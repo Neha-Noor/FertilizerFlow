@@ -1,0 +1,23 @@
+Module 3: Procurement
+Sub-Modules	Features & Functionalities
+3.1.	Annual Procurement Plan (APP)	The Annual Procurement Plan (APP) will serve as the foundational document that outlines the procurement strategy for the year. It will include the identification of needs, budget considerations, and timelines for various procurement activities. The plan is formulated collaboratively and requires online approval from the BCIC Board to ensure alignment with organizational objectives.
+Key Features:
+•	Comprehensive identification of procurement needs.
+•	Budget considerations and allocations.
+•	Timelines for procurement activities.
+•	Online approval process by BCIC Board.
+3.2.	Scheduling of Procurement	Scheduling procurement activities is critical for timely acquisition of Urea. This process involves planning the timeline for procurement activities, including market assessments and supplier engagements. Each schedule must be approved online by the BCIC Board to maintain governance and oversight.
+Key Features:
+•	Detailed timeline for procurement activities.
+•	Market assessments and supplier engagement planning.
+•	Online approval from BCIC Board.
+3.3.	Tender Management	The tender management process will encompass several key steps: floating tenders, opening them, and evaluating submissions from potential suppliers. Each stage will be designed to ensure transparency and competitiveness in the procurement process. After evaluating tenders, an online approval of the tender evaluation report is required from a competent authority, following the Delegation of Financial Power (DoFP).
+Key Features:
+•	Floating and opening tenders.
+•	Evaluation of supplier submissions.
+•	Online approval of tender evaluation reports by competent authority.
+3.4.	Contract Award Process	Once a tender is awarded, a Notice of Award (NOA) is issued to the selected supplier. This phase also includes the submission and verification of a Perfonnance Guarantee (PG) and contract signing. Notifications are sent online to both the contract awardee and the PG issuing bank to ensure all parties are informed and aligned to contractual obligations.
+Key Features:
+•	Issuance of Notice of Award (NOA).
+•	Submission and verification of Performance Guarantee (PG).
+•	Online notifications to contract awardee and PG issuing bank.

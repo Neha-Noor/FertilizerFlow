@@ -1,0 +1,161 @@
+Module 3: Procurement
+Sub-Modules	Features & Functionalities
+3.1.	Annual Procurement Plan (APP)	The Annual Procurement Plan (APP) will serve as the foundational document that outlines the procurement strategy for the year. It will include the identification of needs, budget considerations, and timelines for various procurement activities. The plan is formulated collaboratively and requires online approval from the BCIC Board to ensure alignment with organizational objectives.
+Key Features:
+•	Comprehensive identification of procurement needs.
+•	Budget considerations and allocations.
+•	Timelines for procurement activities.
+•	Online approval process by BCIC Board.
+3.2.	Scheduling of Procurement	Scheduling procurement activities is critical for timely acquisition of Urea. This process involves planning the timeline for procurement activities, including market assessments and supplier engagements. Each schedule must be approved online by the BCIC Board to maintain governance and oversight.
+Key Features:
+•	Detailed timeline for procurement activities.
+•	Market assessments and supplier engagement planning.
+•	Online approval from BCIC Board.
+3.3.	Tender Management	The tender management process will encompass several key steps: floating tenders, opening them, and evaluating submissions from potential suppliers. Each stage will be designed to ensure transparency and competitiveness in the procurement process. After evaluating tenders, an online approval of the tender evaluation report is required from a competent authority, following the Delegation of Financial Power (DoFP).
+Key Features:
+•	Floating and opening tenders.
+•	Evaluation of supplier submissions.
+•	Online approval of tender evaluation reports by competent authority.
+3.4.	Contract Award Process	Once a tender is awarded, a Notice of Award (NOA) is issued to the selected supplier. This phase also includes the submission and verification of a Perfonnance Guarantee (PG) and contract signing. Notifications are sent online to both the contract awardee and the PG issuing bank to ensure all parties are informed and aligned to contractual obligations.
+Key Features:
+•	Issuance of Notice of Award (NOA).
+•	Submission and verification of Performance Guarantee (PG).
+•	Online notifications to contract awardee and PG issuing bank.
+
+ 
+
+3.5.	Letter of Credit (L/C) Management	The opening of a Letter of Credit (L/C) is a crucial step in securing payment for goods. This process involves initiating L/C openings and requires online notifications for checking and vetting by both the Finance Division and Purchase Division, ensuring financial compliance and risk mitigation.
+Key Features:
+•	Initiation of Letter of Credit openings.
+•	Online notifications for L/C checking by the Finance Division.
+•	Vetting processes to ensure compliance.
+3.6.	Shipment Coordination	Effective shipment coordination begins with the nomination of a mother vessel based on laycan or contracted shipment times. This nomination must receive online approval from a competent authority. Once confirmed, suppliers or shipbrokers are responsible for notifying the Purchase Division about shipment details, ensuring that all stakeholders are updated in real time.
+Key Features:
+•	Nomination of mother vessel based on laycan/contracted shipment time.
+•	Online approval from competent authority.
+•	Real-time notifications to the Purchase Division regarding shipment details.
+3.7.	Arrival Notifications	Monitoring the aITival of mother vessels laden with Urea cargo at designated ports such as Chattogram, Mongla, or Payra is essential for logistics planning. Notifications regarding Expected Time of Arrival (ETA) and Notice of Readiness (NOR) are provided online to facilitate smooth operations upon arrival.
+Key Features:
+•	Monitoring arrival at designated ports.
+•	Online notifications for Expected Time of A1Tival (ETA).
+•	Notice of Readiness (NOR) alerts for operational readiness.
+3.8.	Shipping Document Management	The management of shipping documents, particularly Non-Negotiable Shipping Documents (NSD) and Original Shipping Documents (OSD), involves notifying the Finance Division for document endorsement. Additionally, these documents must be handed over for customs formalities either at the BCIC Branch Office or to CNF Agents, ensuring compliance with regulatory requirements.
+Key Features:
+•	Notification to Finance Division for document endorsement.
+•	Handover procedures for customs formalities.
+•	Compliance with regulatory requirements through proper documentation.
+3.9.	Document Distribution	Efficient distribution of shipping documents is vital for timely customs clearance and logistics management. Online notifications are sent to enlisted CNF Agents and Marine Surveyors according to an alphabetical order system, ensuring organized communication and documentation flow.
+Key Features:
+•	Online notifications to enlisted CNF Agents and Marine Surveyors.
+•	Alphabetical order system for organized communication.
+•	Timely distribution for customs clearance.
+3. I 0.	Urea Cargo Handover	The handover process for Urea cargo from the Purchase Division to the Marketing Division is facilitated through an online notification system that tracks cargo movement and ensures accountability among involved parties.
+Key Features:
+•	Online notifications tracking Urea cargo handover.
+•	Accountability measures among involved divisions.
+ 
+
+3.11.	Delivery Process from KAFCO	Under direct procurement contracts with KAFCO, various notifications are generated throughout the delivery process. This includes signing contracts lot-wise, opening L/Cs against those contracts, and issuing allotment letters to inland carrying contractors, all communicated through an online platform to ensure transparency among stakeholders.
+Key Features:
+•	Signing contracts lot-wise with KAFCO.
+•	Opening L/Cs against contracts with notifications.
+•	Issuing allotment letters to inland carrying contractors.
+3.12.	Delivery Tracking	To maintain oversight on Urea deliveries, aily notifications regarding delivery positions are provided by KAFCO Delivery Cell to relevant divisions such as Purchase, Marketing, Accounts, and Finance. This tracking mechanism helps in managing logistics effectively and addressing any issues promptly.
+Key Features:
+•	Daily delivery position updates from KAFCO Delivery Cell.
+•	Notifications sent to relevant divisions for oversight.
+3.13.	Completion Notifications	Finally, upon completion of Urea deliveries against each contract lot, notifications are sent from KAFCO Delivery Cell to all relevant divisions-Purchase Division, Marketing Division, Accounts Division, Finance Division-and concerned carriers. This ensures that all parties are informed about delivery status and facilitates final reconciliation processes.
+Key Features:
+•	Completion notifications sent upon delivery finalization.
+•	Communication with all relevant divisions for transparency.
+3.14.	Supplier Information Management	The Supplier Information Management (SIM) module will allow BCIC to create and maintain comprehensive profiles for each supplier, ensuring access to accurate and current data. This module facilitates regular updates to supplier details and manages a centralized database, enhancing compliance and risk management.
+Key Features:
+•	Comprehensive identification of supplier profiles.
+•	Regular updates to ensure accuracy of supplier details.
+•	Centralized management of supplier databases for easy access.
+
+ 
+3.15.	Payment Procedure Features	(a)	To Supplier of Urea under G2G Contract with Delivery Term FOB
+This payment procedure outlines the steps for processing payments to suppliers of Urea under Government-to-Government (G2G) contracts with a Free on Board (FOB) delivery term. The process begins with online notifications regarding the shipment of Urea cargo and continues through the receipt and handling of shippi.ng documents.
+Key Features:
+•	Online Notification: Event notification for shipment of Urea cargo from supplier to relevant divisions (Purchase, Finance, SBC).
+•	Document  Reception:  Notification  upon  receiving  original  shipping
+documents at the LC opening bank.
+•	Shipping Document Handling: Notifications regarding non-negotiable shipping documents to concerned divisions.
+•	Dispatch  Notifications: Online notifications for dispatching endorsed
+shipping documents for customs assessment and port clearance.
+(b)	To Overseas Carrier of Urea under G2G Contract
+This section details the payment procedure for overseas carriers involved in transporting Urea under G2G contracts. It includes daily reporting on cargo discharge and notifications related to freight payments.
+Key Features:
+•		Daily Reporting: Online notifications of daily reports on Urea cargo discharged from the mother vessel.
+•	Obligation Fulfillment: Notifications regarding fulfillment of discharge
+obligations as per Charter Party (CP) or shipbroker contracts.
+•	Payment Certification: Issuance of certificates for honoring major freight payments to charter parties or shipbrokers.
+•	Final  Payment  Notifications:  Notifications  regarding  clearing  final
+payments for freight upon completion of cargo handover.
+Performance Guarantee Release: Notifications concerning the release of performance guarantees for suppliers or charter parties. (c) To KAFCO Under Direct Procurement (DP) Contract
+This section outlines the payment procedure for KAFCO under a Direct Procurement
+contract. It includes notifications related to document receipt, completion certificates, and compliance with contract terms.
+Key Features:
+•		Document Receipt Notification: Online notification upon receiving documents required for payment from KAFCO after Urea delivery completion.
+•	Completion  Certificate  Issuance:  Notifications  regarding  issuing
+completion certificates for Urea deliveries against contracts.
+•		Document Submission Notification: Notifications from KAFCO concerning the submission of required documents to the concerned bank.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+3.16.
+ 
+Receiving and	(a) Receiving and Transportation of Imported Urea from Sea and River Ports
+Transportation
+Procedures for Urea  This procedure outlines the steps involved in receiving and transporting imported
+Urea from seaports (Chattogram, Mongla, Payra) and river ports (Noapara, Khulna) to various buffer godowns, factory godowns, and transit godowns. It includes the appointment of inland carriers and the allocation of transportation assignments.
+Key Features:
+•		Appointment Notifications: Online notifications to relevant divisions regarding the appointment of inland carriers, CNF agents, and marine surveyors.
+•	Urea Allocation: Notifications of Urea allotment letters for discharging
+from mother vessels to inland carriers and other stakeholders.
+•	Daily Reporting: Online notifications of daily Urea discharging quantities by vessel, truck, wagon, and contract.
+•	Receiving Notifications: Daily updates on Urea receiving quantities from
+inland carrying contractors.
+•		Chalan Issuance: Notifications regarding the issuance of Chalan for transportation to concerned parties.
+•	Transshipment Notifications: Updates on transshipment activities from
+lighter vessels to trucks or wagons.
+•		Track and Trace Reports: Online tracking reports for fertilizer trucks/wagons/barge under each inland carrying contractor.
+•	Material Received Reports (MRR): Issuance of MRRs by buffer or factory
+godowns confirming receipt of Urea.
+(b)	Receiving and Transportation of BCIC Own Production of Urea, TSP, DAP This section details the procedures for receiving and transp01ting Urea produced by BClC-owned factories (GPFPLC, CUFL, SFCL, JFCL, AFCCL,TSPCL,DAPFCL) to
+different buffer godowns, factory godowns, and transit godowns. It focuses on the allocation oftranspo1tation assignments to appointed inland carrying contractors.
+Key Features:
+•	Dispatch Notifications: Online notifications sent to marketing divisions and relevant depa1tments regarding daily Urea dispatch quantities.
+•	Track and Trace Reports: Daily tracking reports on fertilizer trucks/wagons/barge under each inland carrying contractor provided to relevant divisions.
+•	Material Received Reports (MRR): Issuance of MRRs by concerned
+godowns confirming receipt of Urea from inland carrying contractors.
+ 
+3.17. Payment Procedure of (a) Verification and Certification for Payment of Fertilizer Carrying Bill for
+Marketing to Inland  Imported Urea
+Carrying Contractors This procedure outlines the steps taken by the BCIC Marketing Division to verify and certify payment for fertilizer carrying bills associated with imported Urea. The process ensures that all contractual obligations are met before payments are processed.
+Key Features:
+•	Verification Notification: Online notifications regarding the verification of
+carrying bills based on pre-defined criteria outlined in the carrying contract.
+•	Certification Process: Notifications sent from the BCIC Marketing Division to the Accounts Division for certification of the fertilizer carrying bill.
+•	Payment Notification: Online notifications to the Marketing Division, concerned inland carriers, and buffer/factory/transit godown in-charges regarding the honoring of payment bills.	•
+(b)	Verification and Certification for Payment of Fertilizer Carrying Bill for BCIC Owned Factory's Urea
+This section details the payment verification and certification process conducted by
+the concerned fertilizer factory when dealing with Urea produced by BCIC-owned factories. It ensures compliance with contractual terms before processing payments.
+Key Features:
+•		Verification Notification: Online notifications concerning the verification of carrying bills according to stipulated criteria in the carrying contract.
+•	Certification Process: Notifications sent from the factory's commercial department concerned to the accounts department for payment certification.
+•	Payment Notification: Online notifications to the factory's commercial department, concerned inland carriers, and buffer/factory/transit godown in­ charges regarding the honoring of payment bills.
